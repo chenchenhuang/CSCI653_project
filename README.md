@@ -1,3 +1,3 @@
 # CSCI653_project
 ## Large scale collective behavior silumation with parallel computing
-
+Collective behavior is an ubiquitos phenomena across many differnt animals in nature. Fish schools are examples of systems whose collective dynamics emerge from individual-level interac-tions. These systems are often modeled with self-propelled particles in unbounded domains subject to phenomenological behavioral rules based on visual feedback that usually neglect hydrodynamic interac-tions among the fish. This pair-wise interaction could be very costly in large scale. This project will focues on collective behavior in large scale. 
